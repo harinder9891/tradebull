@@ -1,0 +1,71 @@
+
+<script>
+    
+document.addEventListener("DOMContentLoaded", function () {
+    var isDrawing, lastPoint;
+  
+    // Get all canvas elements with the class "scratch-canvas"
+    var canvases = document.getElementsByClassName("scratch-canvas");
+  
+    // Loop through each canvas element
+    for (var i = 0; i < canvases.length; i++) {
+      var canvas = canvases[i];
+      var canvasWidth = canvas.width;
+      var canvasHeight = canvas.height;
+      var ctx = canvas.getContext("2d");
+      var image = new Image();
+      var brush = new Image();
+      var scratched = 45;
+  
+      image.src = "..."; // Your image source here
+      image.onload = function () {
+        ctx.drawImage(image, 0, 0);
+      };
+  
+      brush.src = "..."; // Your brush image source here
+  
+      canvas.addEventListener("mousedown", handleMouseDown, false);
+      canvas.addEventListener("touchstart", handleMouseDown, false);
+      canvas.addEventListener("mousemove", handleMouseMove, false);
+      canvas.addEventListener("touchmove", handleMouseMove, false);
+      canvas.addEventListener("mouseup", handleMouseUp, false);
+      canvas.addEventListener("touchend", handleMouseUp, false);
+    }
+  
+    // Rest of your functions here...
+  
+    function handleMouseDown(e) {
+      isDrawing = true;
+      lastPoint = getMouse(e, this); // Use 'this' to refer to the current canvas
+    }
+  
+    function handleMouseMove(e) {
+      if (!isDrawing) {
+        return;
+      }
+  
+      e.preventDefault();
+  
+      var currentPoint = getMouse(e, this); // Use 'this' to refer to the current canvas
+      var dist = distanceBetween(lastPoint, currentPoint);
+      var angle = angleBetween(lastPoint, currentPoint);
+      var x, y;
+  
+      for (var i = 0; i < dist; i++) {
+        x = lastPoint.x + Math.sin(angle) * i - 25;
+        y = lastPoint.y + Math.cos(angle) * i - 25;
+        ctx.globalCompositeOperation = "destination-out";
+        ctx.drawImage(brush, x, y);
+      }
+  
+      lastPoint = currentPoint;
+      handlePercentage(getFilledInPixels(60), scratched);
+    }
+  
+    function handleMouseUp(e) {
+      isDrawing = false;
+    }
+  
+    // Rest of your functions here...
+  });
+</script>  

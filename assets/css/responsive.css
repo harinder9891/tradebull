@@ -1,0 +1,2102 @@
+@media only screen and (max-width: 767px) {
+.sf-menu ul {
+    position: relative;
+}
+.vlt-offcanvas-menu__navigation .sf-menu li {
+    padding-left: 15px;
+}
+.vlt-offcanvas-menu__navigation .sf-menu li ul li{
+    padding: 15px 0px 0px 0px;
+	
+}
+.vlt-offcanvas-menu__navigation .sf-menu li ul li {
+    padding: 8px 0px 8px 15px;
+}
+.vlt-offcanvas-menu__navigation .sf-menu li ul li{
+   color:#fff;
+}
+
+
+
+
+.hover-effect-box {
+    width: 100%;
+}
+.redit-stock-text h3 {
+    font-size: 18px;
+    line-height: 25px;
+    margin: 0px 0px 3px;
+}
+.redit-stock-text p {
+    font-size: 14px;
+    margin-bottom: 2px;
+}
+
+
+.text {
+    width: 100%;
+    padding: 0% 4%;
+}
+.text h4 {
+    font-size: 18px;
+    line-height: 26px;
+    padding-bottom: 20px;
+}
+
+
+
+.trade-exe {
+    padding: 8% 4%;
+}
+.trade-exe h2 {
+    font-size: 21px;
+    padding-bottom: 10px;
+}
+.trade-exe p {
+    font-size: 15px;
+    line-height: 22px;
+    padding: 0px 0%;
+}
+.trade-exe-list {
+    padding: 8% 0% 2%;
+   
+}
+.trade-exe-list .left, .trade-exe-list .right {
+    width: 100%;
+    color: #fff;
+    margin: 15px 0px;
+}
+.trade-exe-list .left p, .trade-exe-list .right p {
+    font-size: 13px;
+}
+.trade-exe-list .left h3, .trade-exe-list .right h3 {
+    font-size: 45px;
+}
+.trade-exe-list .left span, .trade-exe-list .right span {
+    font-size: 12px;
+    display: inline-block;
+    line-height: 16px;
+}
+.trade-exe-w {
+    padding: 8% 4%;
+}
+.trade-exe-w h2 {
+    font-size: 21px;
+    padding-bottom: 10px;
+}
+.trade-exe-w p {
+    font-size: 15px;
+    line-height: 22px;
+    padding: 0px 0% 8%;
+}
+.trade-exew-list {
+    padding: 0% 2%;
+   
+}
+.trade-exew-list .left, .trade-exew-list .right {
+    width: 100%;
+    color: #fff;
+    margin: 0px 0px 30px;
+}
+.trade-exew-list .left p, .trade-exew-list .right p {
+    font-size: 13px;
+}
+.trade-exew-list .left h3, .trade-exew-list .right h3 {
+    font-size: 45px;
+}
+.trade-exew-list .left span, .trade-exew-list .right span {
+    font-size: 12px;
+    display: inline-block;
+    line-height: 16px;
+}
+.exe-info p {
+    color: #303030;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+
+.platform-part-m {
+    display: none;
+}
+.bg-trade {
+    background: linear-gradient(90deg, rgb(6 61 173) 12%, rgb(36 107 228) 100%, rgba(255,255,255,1) 104%);
+}
+.blue-heading-text {
+    padding: 8% 0px;
+}
+.blue-heading-text h2 {
+    font-size: 22px;
+    line-height: 32px;
+    margin: 0px 0px 5px;
+}
+.blue-heading-text p {
+    font-size: 16px;
+}
+.advantages { padding: 8% 0% 4%;
+}
+.advantages h2 {
+    font-size: 25px;
+    line-height: 34px;
+}
+.advantages ul li {
+    align-items: flex-start;
+    width: 100%;
+    font-size: 15px;
+    line-height: normal;
+}
+.mob-trade-boxs .left, .mob-trade-boxs .right {
+    width: 100%;
+	margin-bottom: 30px;    padding: 9% 3% 0%;
+}
+.mob-trade-boxs .left h2, .mob-trade-boxs .right h2 {
+    color: #2873F0;
+    font-size: 22px;
+    text-transform: uppercase;
+    line-height: 30px;
+    margin-bottom: 15px;
+}
+.mob-trade-button .or-btn, .mob-trade-button .wt-btn{
+    width: 88%;
+   margin-right: 0px;
+   margin-bottom:20px
+}
+
+
+
+
+
+
+
+.ser-tags h2 {
+    font-size: 20px;
+    margin: 20px 0px 4px;
+}
+.service-data .left, .service-data .right {
+    width: 100%;
+    margin-bottom: 15px;
+}
+.service-data table th {
+    font-size: 14px;
+    padding: 8px 15px;
+}
+.service-data table td {
+    font-size: 13px;
+    padding: 8px 15px;
+}
+.bottom {
+    font-size: 13px;
+    margin: 0px 0px 36px;
+}
+.small-tag {
+    padding: 0px 0px;
+    text-align: justify;
+    font-size: 16px;
+    margin: 1% 0px 14%;
+}
+.small-tag h3 {
+    font-size: 16px;
+	text-align:center;
+}
+#rollover h2 {
+    font-size: 22px;
+    padding-bottom: 20px;
+}
+#rollover p {
+    color: #fff;
+    font-size: 16px;
+}
+
+.platform__particles {
+    display: none;
+} 
+.platform {
+    padding-top: 2rem;
+    padding-bottom: 1.5rem;
+}	
+.platform h2 {
+    font-size: 22px;
+    line-height: 28px;
+    color: #fff;
+    margin: 11px 0px 10px;
+}
+.platform-button {
+    margin: 0px 0px 20px;
+}
+.platform-button .or-btn, .platform-button .wt-btn{
+    width: 100%;
+	margin-right: 0px;
+	margin-bottom:10px
+}
+.mob-t {
+    display: block;
+}
+.desk-t {
+    display: none;
+}	
+.multi-asset > img {
+    width: 100%;
+    margin-bottom: 20px;
+}	
+.asset-platforms h2 {
+    font-size: 22px;
+}	
+.multi-asset .asset-platforms {
+    width: 100%;
+}	
+.multi-asset {
+    padding: 40px 0px 10px;
+}
+.asset-platforms ul li {
+    align-items: baseline;
+    font-size: 15px;
+    line-height: 20px;
+    padding-bottom: 10px;
+}
+
+
+
+
+	
+.blue-bar .vlt-menu-burger svg {
+    color: #fff;
+}
+	.aside-widget {
+		margin-left: 0px;
+	}
+	.section-title h3 {
+    font-size: 18px;
+}
+.category-widget ul li a {
+    line-height: 20px;
+}
+.post .post-title.title-lg {
+    font-size: 18px;
+}
+	.vlt-large-heading {
+        font-size: 2rem;
+        padding-bottom: 20px;
+    }
+    .home-img {
+        opacity: 0.2;
+    }
+    .sub-title {
+        font-size: 20px;
+        line-height: 1.2;
+        padding-bottom: 3px;
+    }
+    .min-title {
+        font-size: 16px;
+        color: #101010;
+        font-weight: 500;
+        line-height: 20px;
+    }
+    .vlt-gap-70 {
+        height: 2rem;
+    }
+    .trade-services .vlt-animated-block {
+        width: 98%;
+    }
+    .vlt-services__title {
+        font-size: 16px;
+        font-weight: 500;
+        margin-bottom: 15px;
+    }
+    .vlt-counter-up-small {
+        margin-bottom: 10px;
+    }
+    .trade-img-left {
+        top: 0;
+        left: 0;
+        bottom: 50px;
+        width: 100%;
+        height: 100%;
+        background-position: bottom;
+        background-size: contain;
+    }
+    .trading-box {
+        flex-wrap: wrap;
+    }
+    .trading-box {
+        padding: 25px 0px 0px;
+    }
+    .trading-box .trade {
+        width: 100%;
+        padding: 30px 25px 70px;
+        margin-bottom: 20px;
+    }
+    .trading-box .trade h3 {
+        font-size: 19px;
+        font-weight: 500;
+        padding-bottom: 5px;
+    }
+    .trading-box .trade p {
+        font-size: 15px;
+        margin: 0px;
+        line-height: 20px;
+    }
+    .trading-box .trade ul {
+        padding: 0px;
+        margin: 25px 0px 30px;
+    }
+    .trading-box .trade ul li {
+        padding-bottom: 12px;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .orange-full-btn a {
+        padding: 12px 4px;
+        font-size: 13px;
+    }
+    .orange-full-btn {
+        bottom: 28px;
+        width: 80%;
+    }
+    .heading {
+        font-size: 20px;
+        font-weight: 500;
+        margin: 0px 0px 3px;
+        line-height: 25px;
+    }
+    #steps:before {
+        content: "";
+        display: block;
+        position: absolute;
+        left: 6%;
+        top: 0;
+        margin: 0 0 0 -1px;
+        width: 2px;
+        height: 80%;
+        background: rgba(255, 255, 255, 0.2);
+    }
+    #steps article div.inner {
+        width: 82%;
+        float: right;
+        margin: 0px 0 0 0;
+        border-radius: 6px;
+        padding: 0px 15px 6px;
+    }
+    #steps article div.inner span.date span.month {
+        font-size: 25px;
+        font-weight: 800;
+    }
+    #steps article div.inner span.date {
+        display: block;
+        width: 52px;
+        height: 52px;
+        padding: 4px 0;
+        top: 0;
+        left: 7%;
+        font-size: 22px;
+        box-shadow: 0 0 0 4px #ef7f3c;
+    }
+    #steps article div.inner h2:after {
+        content: "";
+        position: absolute;
+        top: 20px;
+        left: -10px;
+        width: 20px;
+        height: 20px;
+    }
+    #steps article div.inner h2 {
+        padding: 18px 18px 6px;
+        font-size: 15px;
+    }
+    #steps article div.inner p {
+        padding: 0px 18px 30px;
+        font-size: 15px;
+    }
+    .trade-experience ul {
+        padding: 10px 0px 0px 17px;
+    }
+    .trade-experience ul li {
+        font-size: 16px;
+        color: #000;
+        font-weight: 600;
+        padding-bottom: 2px;
+    }
+    .trade-experience p {
+        font-size: 15px;
+        color: #000;
+        padding: 0px 0px 20px;
+    }
+    p {
+        font-size: 15px;
+    }
+    .trade-img-right {
+        width: 75%;
+        height: 100%;
+    }
+    .footer-list:first-child {
+        width: 100%;
+        padding-top: 2%;
+    }
+    .footer-list {
+        width: 46%;
+        padding-top: 2%;
+        padding-bottom: 41px;
+    }
+    .footer-list h4 {
+        font-size: 20px;
+        padding-bottom: 9px;
+    }
+    .footer-list ul li {
+        color: #fff;
+        padding-bottom: 5px;
+    }
+    .footer-list ul li a {
+        font-size: 15px;
+    }
+    .vlt-navbar--solid .vlt-navbar-inner {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .vlt-offcanvas-menu__navigation .sf-menu > li > a {
+        font-size: 1.3rem;
+    }
+    .vlt-navbar-inner--right {
+        display: block;
+    }
+    .login-process {
+        display: block;
+        height: auto;
+    }
+    .login-left-dark {
+        width: 100%;
+        padding: 6% 6%;
+    }
+    .login-left {
+        display: block;
+        height: auto;
+    }
+    .login-left-dark img {
+        width: 75%;
+        margin-bottom: 25px;
+    }
+    .login-left-dark p {
+        color: #fff;
+        font-size: 15px;
+        margin-bottom: 40px;
+    }
+    .login-left-dark p {
+        color: #fff;
+        font-size: 16px;
+    }
+    .login-left-dark h1 {
+        font-size: 24px;
+        padding-bottom: 5px;
+        line-height: 28px;
+    }
+    .login-left-light {
+        width: 100%;
+    }
+    .login-button {
+        position: relative;
+        bottom: 16%;
+        width: 90%;
+    }
+    .login-process form {
+        padding: 5% 15% 8% 6%;
+        height: 100%;
+        text-align: left;
+        width: 100%;
+    }
+    .login-process form .form-group {
+        padding: 16px 0px 0px;
+        margin: 0px;
+    }
+    .login-left-light h2 {
+        font-size: 25px;
+    }
+    .login-process form p {
+        font-size: 15px;
+    }
+    .login-process form .form-group input {
+        background: #efefef;
+        box-shadow: none;
+        height: 50px;
+    }
+    .left__container {
+        width: 100%;
+    }
+    .login-right {
+        display: block;
+        height: auto;
+    }
+    .login-right-left {
+        width: 100%;
+        height: auto;
+    }
+    .sub__title__container h2 {
+        font-size: 25px;
+    }
+    .progress__bar__container ul li {
+        display: flex;
+        align-items: center;
+        width: 72px;
+        height: 72px;
+        margin: 7px 20px 15px 0px;
+        position: relative;
+    }
+    .progress__bar__container ul .active::before {
+        content: "";
+        width: 2px;
+        height: 7vh;
+        position: absolute;
+        background-color: #2873f0;
+        right: -8px;
+    }
+    .progress__bar__container ul li::before {
+        content: "";
+        width: 2px;
+        height: 7vh;
+        right: -8px;
+        transform: rotate(90deg);
+    }
+    .verification h3 {
+        font-size: 19px;
+        padding: 15px 0px 5px;
+    }
+    .verification .otp-box .d-flex.flex-row {
+        justify-content: space-between;
+        width: 85%;
+    }
+    .sbt__btn {
+        width: 75%;
+    }
+    .prev__btn {
+        width: 35%;
+    }
+    .nxt__btn {
+        width: 35%;
+    }
+	.login-container {
+        width: 100%;
+        height: auto !important;
+    }
+    .sliderdiv {
+        width: 100% !important;
+        height: auto !important;
+    }
+    .signup {
+        width: 100% !important;
+        height: auto !important;
+    }
+    .togglediv {
+        width: 100% !important;
+        display: none !important;
+    }
+    .login {
+        width: 100% !important;
+        height: auto !important;
+    }
+    .login-left-light {
+        padding: 200px 20px 200px 20px !important;
+    }
+    ::-webkit-scrollbar-track {
+        background-color: white !important;
+    }
+    :root {
+        --p1: white;
+        --pf: Inter;
+    }
+
+    .left__container {
+        display: none !important;
+    }
+    .mobhead {
+        padding: 20px;
+        display: block !important;
+    }
+    html,
+    body {
+        overflow: scroll !important;
+    }
+    .login-left-light {
+        padding: 50px 20px !important;
+    }
+    #signup1 {
+        display: none;
+    }
+	
+	
+	
+.main-title h1 {
+    font-size: 26px;
+    line-height: 34px;
+}
+.main-title {
+    margin: 20px 0px 30px;
+}	
+#about-page h2 {
+    font-size: 20px;
+    line-height: 24px;
+    padding-bottom: 10px;
+}	
+#about-page p {
+    margin-bottom: 10px;
+    font-size: 15px;
+    line-height: 22px;
+}
+.about-trade ul li {
+    margin-bottom: 5px;
+    font-size: 15px;
+    line-height: 22px;
+}	
+.about-trade ul li:before {
+    content: '';
+    top: 10px;
+    left: 0px;
+}	
+.live-acc {
+    padding: 30px 20px;
+    margin-top: 20px;
+}	
+.live-acc h2 {
+    color: #fff !important;
+    margin-bottom: 10px;
+}	
+.demo-acc {
+    padding: 30px 20px;
+    margin-top: 20px;
+}	
+.demo-acc h2 {
+    color: #fff !important;
+    margin-bottom: 10px;
+}	
+.reg-no span {
+    padding: 16px 14px;
+    font-size: 15px;
+}	
+.reg-no {
+    padding: 15px 0px 30px;
+    display: flex;
+}
+.btn-orange-wid{font-size:15px}
+.demo-acc button {
+    font-size: 15px;
+}
+.download h2 {
+    font-size: 20px;
+}
+.download p {
+    font-size: 15px;
+    line-height: 20px;
+}
+.download h3 {
+    font-size: 20px;
+    margin: 6px 0px 15px;
+}
+.trade-app .desk-trading {
+    width: 100%;
+    padding: 30px 20px;
+	margin-bottom: 20px;
+}
+.trade-app .desk-trading h4 {
+    font-size: 18px;
+    color: #fff;
+}
+.trade-app .desk-trading p {
+    color: #fff;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+
+.trade-app .mob-trading {
+    width: 100%;
+    padding: 30px 20px;
+}
+.trade-app .mob-trading h4 {
+    font-size: 18px;
+    color: #fff;
+}
+.trade-app .mob-trading p {
+    color: #fff;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+/* ------contact page---- */
+.contact-info-block .left, .contact-info-block .right {
+    width: 100%;
+}
+.contact-info-block .left h2,.contact-info-block .right h3 {
+    font-size: 22px;
+}
+.contact-info-block .left .form-group input, .contact-info-block .left .form-group textarea {
+    font-size: 15px;
+}	
+
+
+
+
+
+
+
+}
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+.redit-stock-text h3 {
+    font-size: 18px;
+    line-height: 25px;
+    margin: 0px 0px 3px;
+}
+.redit-stock-text p {
+    font-size: 14px;
+    margin-bottom: 2px;
+}
+
+
+
+
+.trade-exe {
+    padding: 8% 1%;
+}
+.trade-exe h2 {
+    font-size: 21px;
+    padding-bottom: 10px;
+}
+.trade-exe p {
+    font-size: 15px;
+    line-height: 22px;
+    padding: 0px 0%;
+}
+.trade-exe-list {
+    padding: 8% 0% 2%;
+   
+}
+.trade-exe-list .left, .trade-exe-list .right {
+    width: 48%;
+    color: #fff;
+    margin: 15px 0px;
+}
+.trade-exe-list .left p, .trade-exe-list .right p {
+    font-size: 13px;
+}
+.trade-exe-list .left h3, .trade-exe-list .right h3 {
+    font-size: 60px;
+	margin: 5px 0px;
+}
+.trade-exe-list .left span, .trade-exe-list .right span {
+    font-size: 12px;
+    display: inline-block;
+    line-height: 16px;
+}
+
+
+
+.trade-exe-w {
+    padding: 8% 2%;
+}
+.trade-exe-w h2 {
+    font-size: 21px;
+    padding-bottom: 10px;
+}
+.trade-exe-w p {
+    font-size: 15px;
+    line-height: 22px;
+    padding: 0px 0% 8%;
+}
+.trade-exew-list {
+    padding: 0% 2%;
+   
+}
+.trade-exew-list .left, .trade-exew-list .right {
+    width: 48%;
+    color: #fff;
+    margin: 0px 0px 30px;
+}
+.trade-exew-list .left p, .trade-exew-list .right p {
+    font-size: 13px;
+}
+.trade-exew-list .left h3, .trade-exew-list .right h3 {
+    font-size: 50px;margin: 5px 0px;
+}
+.trade-exew-list .left span, .trade-exew-list .right span {
+    font-size: 12px;
+    display: inline-block;
+    line-height: 16px;
+}
+.exe-info p {
+    color: #303030;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+
+
+
+.platform-part-m {
+    display: none;
+}
+.bg-trade {
+    background: linear-gradient(90deg, rgb(6 61 173) 12%, rgb(36 107 228) 100%, rgba(255,255,255,1) 104%);
+}
+.blue-heading-text {
+    padding: 8% 0px;
+}
+.blue-heading-text h2 {
+    font-size: 22px;
+    line-height: 32px;
+    margin: 0px 0px 5px;
+}
+.blue-heading-text p {
+    font-size: 16px;
+}
+.advantages { padding: 8% 0% 4%;
+}
+.advantages h2 {
+    font-size: 25px;
+    line-height: 34px;
+}
+.advantages ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    flex-wrap: wrap;
+    margin-top: 5%;
+    padding: 0px;
+    justify-content: space-between;
+}
+.advantages ul li {
+    align-items: center;
+    width: 48%;
+    font-size: 16px;
+    line-height: normal;
+}
+.mob-trade-box .mob-trade-boxs {
+        align-items: initial;
+    justify-content: space-between;
+}
+.mob-trade-boxs .left, .mob-trade-boxs .right {
+    width: 48%;
+    margin-bottom: 30px;
+    padding: 4% 3% 0%;
+}
+.mob-trade-boxs .left h2, .mob-trade-boxs .right h2 {
+    color: #2873F0;
+    font-size: 19px;
+    text-transform: uppercase;
+    line-height: 30px;
+    margin-bottom: 15px;
+}
+.mob-trade-button .or-btn, .mob-trade-button .wt-btn{
+    width: 88%;
+   margin-right: 0px;
+   margin-bottom:20px
+}
+.platform-button-m .or-btn, .platform-button-m .wt-btn {
+    width: 36%;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+
+
+.ser-tags h2 {
+    font-size: 23px;
+    margin: 20px 0px 10px;
+}
+
+.platform__particles {
+    display: none;
+} 
+.platform {
+    padding-top: 2rem;
+    padding-bottom: 1.5rem;
+}	
+.platform h2 {
+    font-size: 25px;
+    line-height: 28px;
+    color: #fff;
+    margin: 11px 0px 10px;
+}
+.platform-button{margin: 0px 0px 30px; }	
+.platform-button .or-btn, .platform-button .wt-btn{
+    width: 40%;
+    margin-right: 20px;
+    margin-bottom:10px
+}
+.mob-t {
+    display: block;
+}
+.desk-t {
+    display: none;
+}
+.multi-asset > img {
+    width: 100%;
+    margin-bottom: 20px;
+}	
+.asset-platforms h2 {
+    font-size: 22px;
+}	
+.multi-asset .asset-platforms {
+    width: 100%;
+}
+.multi-asset {
+    padding: 40px 0px 10px;
+}
+
+
+
+
+
+/* ------contact page---- */
+.contact-info-block .left, .contact-info-block .right {
+    padding: 40px 35px; 
+}
+.contact-info-block .left h2,.contact-info-block .right h3 {
+    font-size: 25px;
+}
+.contact-info-block .left .form-group input, .contact-info-block .left .form-group textarea {
+    font-size: 15px;
+}	
+
+
+
+.main-title {
+    margin: 20px 0px 40px;
+}
+.main-title h1 {
+    font-size: 32px;
+    line-height: 50px;
+    padding-bottom: 10px;
+}
+
+.demo-acc {
+    padding: 40px;
+}
+.live-acc {
+    padding: 40px;
+}
+#about-page h2 {
+    font-size: 22px;
+    line-height: 32px;
+    padding-bottom: 20px;
+}
+.download h2 {
+    font-size: 24px;
+}
+.download p {
+    font-size: 15px;
+    line-height: 20px;
+}
+.download h3 {
+    font-size: 24px;
+    margin: 6px 0px 15px;
+}
+.trade-app .desk-trading {
+    padding: 40px 20px;
+}
+.trade-app .desk-trading h4 {
+    font-size: 20px;
+    color: #fff;
+}
+.trade-app .desk-trading p {
+    color: #fff;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+
+.trade-app .mob-trading {
+    padding: 40px 20px;
+}
+.trade-app .mob-trading h4 {
+    font-size: 20px;
+    color: #fff;
+}
+.trade-app .mob-trading p {
+    color: #fff;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	.vlt-navbar-contacts ul li.sep {
+        display: none;
+    }
+    .vlt-navbar-contacts ul li {
+        padding: 1px 15px;
+        font-size: 13px;
+    }
+    .vlt-navbar .vlt-navbar-inner {
+        padding: 10px 20px 0px;
+    }
+    .vlt-large-heading {
+        font-size: 2.5rem;
+    }
+    .sub-title {
+        font-size: 2rem;
+        line-height: 1.2;
+        padding-bottom: 10px;
+    }
+    .min-title {
+        font-size: 20px;
+    }
+    .vlt-services__title {
+        font-size: 17px;
+        font-weight: 500;
+        margin-bottom: 30px;
+    }
+    .vlt-gap-70 {
+        height: 3.375rem;
+    }
+    .vlt-counter-up {
+        font-size: 5.5rem;
+    }
+    .trade-img-left {
+        width: 100%;
+        height: 98%;
+        background-position: bottom;
+        background-size: contain;
+        opacity: 0.2;
+    }
+    .meta .col-lg-5.col-md-12 {
+        flex: 0 0 95.666667%;
+        max-width: 100%;
+    }
+    .trading-box .trade h3 {
+        font-size: 22px;
+        padding-bottom: 5px;
+    }
+    .trading-box .trade p {
+        font-size: 15px;
+        margin: 0px;
+    }
+    .trading-box .trade ul {
+        padding: 0px;
+        margin: 25px 0px 35px;
+    }
+    .trading-box .trade ul li {
+        list-style: none;
+        padding-bottom: 15px;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .orange-full-btn a {
+        font-size: 17px;
+    }
+    #steps article div.inner {
+        width: 42%;
+        padding: 0px 20px 15px;
+    }
+    #steps article div.inner span.date {
+        padding: 7px 0;
+        font-size: 20px;
+    }
+    #steps article div.inner span.date span.month {
+        font-size: 28px;
+    }
+    #steps article div.inner h2 {
+        padding: 20px 20px 6px;
+        font-size: 18px;
+    }
+    #steps article div.inner p {
+        padding: 0px 20px 20px;
+        font-size: 15px;
+    }
+    .trade-experience ul {
+        padding: 10px 0px 0px 20px;
+    }
+    .trade-experience ul li {
+        font-size: 20px;
+        color: #000;
+        font-weight: 600;
+        padding-bottom: 9px;
+    }
+}
+@media only screen and (min-width: 1024px) and (max-width: 1200px) {
+.trade-exe {
+    padding: 8% 12%;
+}
+.trade-exe h2 {
+    font-size: 28px;
+    padding-bottom: 10px;
+}
+.trade-exe p {
+    font-size: 17px;
+    line-height: 22px;
+    padding: 0px 0%;
+}
+.trade-exe-list {
+    padding: 8% 0% 2%;
+   
+}
+.trade-exe-list .left, .trade-exe-list .right {
+    width: 48%;
+    color: #fff;
+    margin: 15px 0px;
+}
+.trade-exe-list .left p, .trade-exe-list .right p {
+    font-size: 13px;
+}
+.trade-exe-list .left h3, .trade-exe-list .right h3 {
+    font-size: 70px;
+    margin: 5px 0px;
+}
+.trade-exe-list .left span, .trade-exe-list .right span {
+    font-size: 12px;
+    display: inline-block;
+    line-height: 16px;
+}
+
+
+
+.trade-exe-w {
+    padding: 8% 10%;
+}
+.trade-exe-w h2 {
+    font-size: 28px;
+    padding-bottom: 10px;
+}
+.trade-exe-w p {
+    font-size: 17px;
+    line-height: 22px;
+    padding: 0px 8% 3%;
+}
+.trade-exew-list {
+    padding: 0% 2%;
+    margin-top: 4%;
+}
+.trade-exew-list .left, .trade-exew-list .right {
+    width: 48%;
+    color: #fff;
+    margin: 0px 0px 30px;
+}
+.trade-exew-list .left p, .trade-exew-list .right p {
+    font-size: 14px;
+}
+.trade-exew-list .left h3, .trade-exew-list .right h3 {
+    font-size: 60px;
+    margin: 5px 0px;
+}
+.trade-exew-list .left span, .trade-exew-list .right span {
+    font-size: 12px;
+    display: inline-block;
+    line-height: 16px;
+}
+.exe-info p {
+    color: #303030;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+.platform-part-m {
+    width: 75%;
+    height: 58%;
+    background-size: 58%;
+    right: 0%;
+}
+.platform-button-m .or-btn, .platform-button-m .wt-btn {
+    width: 26%;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.blue-heading-text h2 {
+    font-size: 35px;
+    line-height: 45px;
+}
+.advantages h2 {
+    color: #fff;
+    font-size: 35px;
+    line-height: 45px;
+}
+.mob-trade-box .mob-trade-boxs {
+        align-items: initial;
+    justify-content: space-between;
+}
+.mob-trade-boxs .left, .mob-trade-boxs .right {
+    width: 48%;
+    margin-bottom: 30px;
+    padding: 4% 3% 0%;
+}
+.mob-trade-boxs .left h2, .mob-trade-boxs .right h2 {
+    color: #2873F0;
+    font-size: 24px;
+    text-transform: uppercase;
+    line-height: 32px;
+    margin-bottom: 25px;
+}
+.mob-trade-button .or-btn, .mob-trade-button .wt-btn{
+    width: 70%;
+   margin-right: 0px;
+   margin-bottom:20px
+}
+
+
+
+
+
+
+
+
+.left-title {
+    margin: 10px 0px 30px;
+}
+.left-title h2 {
+    font-size: 30px;
+    line-height: 40px;
+    padding-bottom: 1px;
+}		
+.platform {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}	
+.platform h2 {
+    font-size: 30px;
+    line-height: 40px;
+    color: #fff;
+    margin: 11px 0px 10px;
+}
+.platform-button .or-btn, .platform-button .wt-btn{
+    width: 30%;
+    margin-right: 20px;
+    margin-bottom:10px
+}
+.platform__particles {
+    width: 100%;
+    height: 60%;
+    pointer-events: auto;
+}
+.platform-particle1 {
+    background-size: 40%;
+}	
+.platform-part {
+    width: 104%;
+    height: 113%;
+    background-size: 55%;
+}	
+.multi-asset {
+    padding: 55px 0px 40px;
+    align-items: center;
+}
+.platform-button {
+    margin: 0px 0px 30px;
+}
+.asset-platforms h2 {
+    font-size: 38px;
+    font-weight: 500;
+}
+
+
+
+
+
+
+	
+	.light-head .vlt-navbar-inner--left {
+		align-items: center !important;
+	}
+    .vlt-navbar-contacts ul li.sep {
+        display: none;
+    }
+    .vlt-navbar-contacts ul li {
+        padding: 1px 15px;
+        font-size: 13px;
+    }
+    .vlt-navbar .vlt-navbar-inner {
+        padding: 10px 20px 0px;
+    }
+    .vlt-large-heading {
+        font-size: 2.5rem;
+    }
+    .sub-title {
+        font-size: 2rem;
+        line-height: 1.2;
+        padding-bottom: 10px;
+    }
+    .min-title {
+        font-size: 20px;
+    }
+    .vlt-services__title {
+        font-size: 17px;
+        font-weight: 500;
+        margin-bottom: 30px;
+    }
+    .vlt-gap-70 {
+        height: 3.375rem;
+    }
+    .vlt-counter-up {
+        font-size: 5.5rem;
+    }
+    .trade-img-left {
+        width: 100%;
+        height: 98%;
+        background-position: bottom;
+        background-size: contain;
+        opacity: 0.2;
+    }
+    .meta .col-lg-5.col-md-12 {
+        flex: 0 0 95.666667%;
+        max-width: 100%;
+    }
+    .trading-box .trade h3 {
+        font-size: 22px;
+        padding-bottom: 5px;
+    }
+    .trading-box .trade p {
+        font-size: 15px;
+        margin: 0px;
+    }
+    .trading-box .trade ul {
+        padding: 0px;
+        margin: 25px 0px 35px;
+    }
+    .trading-box .trade ul li {
+        list-style: none;
+        padding-bottom: 15px;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .orange-full-btn a {
+        font-size: 17px;
+    }
+    #steps article div.inner {
+        width: 42%;
+        padding: 0px 20px 15px;
+    }
+    #steps article div.inner span.date {
+        padding: 7px 0;
+        font-size: 20px;
+    }
+    #steps article div.inner span.date span.month {
+        font-size: 28px;
+    }
+    #steps article div.inner h2 {
+        padding: 20px 20px 6px;
+        font-size: 18px;
+    }
+    #steps article div.inner p {
+        padding: 0px 20px 20px;
+        font-size: 15px;
+    }
+    .trade-experience ul {
+        padding: 10px 0px 0px 20px;
+    }
+    .trade-experience ul li {
+        font-size: 20px;
+        color: #000;
+        font-weight: 600;
+        padding-bottom: 9px;
+    }
+    .login-left-dark h1 {
+        font-size: 25px;
+        line-height: 32px;
+    }
+    .login-left-dark {
+        width: 32%;
+        padding: 6% 3%;
+    }
+    .login-left-dark p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .login-process form {
+        padding: 5px 15%;
+        width: 80%;
+    }
+    .progress__bar__container ul {
+        padding: 0px;
+    }
+    .left__container {
+        width: 32%;
+        padding: 1.25rem 0;
+        margin-right: 0rem;
+        padding-right: 1.8rem;
+    }
+    .progress__bar__container ul li {
+        margin-right: 2rem;
+        margin: 7px 20px 35px 0px;
+        width: 62px;
+        height: 62px;
+        padding: 15px 5px;
+    }
+    .title__name {
+        padding: 2.6rem 0.1rem 2.6rem;
+    }
+    .input__container label {
+        font-size: 15px;
+    }
+    .progress__bar__container ul .active::before,
+    .progress__bar__container ul li::before {
+        content: "";
+        height: 10.7vh;
+    }
+    .sub__title__container {
+        padding: 0rem 0 0.2rem 0;
+    }
+    .sub__title__container h2 {
+        font-size: 25px;
+    }
+    .right__container .form-group {
+        margin-bottom: 1rem;
+    }
+    .prev__btn {
+        padding: 0.6rem 0;
+        font-size: 1rem;
+        width: 35%;
+    }
+    .nxt__btn {
+        padding: 0.6rem 0;
+        font-size: 1rem;
+        width: 35%;
+    }
+    .sbt__btn {
+        width: 60%;
+        font-size: 16px;
+        padding: 13px 10px;
+    }
+    .mobile-text {
+        color: #989696b8;
+        font-size: 14px;
+    }
+    .login-button {
+        width: 65%;
+    }
+    .form__container {
+        margin-top: 2rem;
+    }
+    .verification .otp-box .d-flex.flex-row {
+        width: 75%;
+    }
+    .verification .otp-box input {
+        width: 20%;
+        color: #455a64;
+    }
+    .verification h3 {
+        font-size: 20px;
+        padding: 15px 0px 6px;
+    }
+    .verification p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .title__name h3 {
+        margin-bottom: 0.2rem;
+        font-size: 15px;
+    }
+    .input__container {
+        margin-top: 1.35rem;
+    }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1366px) {
+.trade-exe {
+    padding: 8% 12%;
+}
+.trade-exe h2 {
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+.trade-exe p {
+    font-size: 17px;
+    line-height: 22px;
+    padding: 0px 0%;
+}
+.trade-exe-list {
+    padding: 8% 0% 2%;
+   
+}
+.trade-exe-list .left, .trade-exe-list .right {
+    width: 48%;
+    color: #fff;
+    margin: 15px 0px;
+}
+.trade-exe-list .left p, .trade-exe-list .right p {
+    font-size: 13px;
+}
+.trade-exe-list .left h3, .trade-exe-list .right h3 {
+    font-size: 75px;
+    margin: 5px 0px;
+}
+.trade-exe-list .left span, .trade-exe-list .right span {
+    font-size: 12px;
+    display: inline-block;
+    line-height: 16px;
+}
+
+
+
+.trade-exe-w {
+    padding: 8% 10%;
+}
+.trade-exe-w h2 {
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+.trade-exe-w p {
+    font-size: 17px;
+    line-height: 22px;
+    padding: 0px 8% 3%;
+}
+.trade-exew-list {
+    padding: 0% 2%;
+    margin-top: 4%;
+}
+.trade-exew-list .left, .trade-exew-list .right {
+    width: 48%;
+    color: #fff;
+    margin: 0px 0px 30px;
+}
+.trade-exew-list .left p, .trade-exew-list .right p {
+    font-size: 14px;
+}
+.trade-exew-list .left h3, .trade-exew-list .right h3 {
+    font-size: 70px;
+    margin: 5px 0px;
+}
+.trade-exew-list .left span, .trade-exew-list .right span {
+    font-size: 12px;
+    display: inline-block;
+    line-height: 16px;
+}
+.exe-info p {
+    color: #303030;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+    
+	
+.platform-part-m {
+    width: 60%;
+    height: 90%;
+    background-size: 75%;
+    right: 2%;
+}	
+.platform h2 {
+    font-size: 36px;
+    line-height: 46px;
+    margin: 20px 0px 20px;
+}
+.blue-heading-text h2 {
+    font-size: 36px;
+    line-height: 46px;
+}
+.advantages h2 {
+    font-size: 40px;
+    line-height: 50px;
+}
+.mob-trade-boxs .left, .mob-trade-boxs .right {
+    width: 48%;
+    padding: 4% 2% 3%;
+}
+.mob-trade-boxs .left h2, .mob-trade-boxs .right h2 {
+    color: #2873F0;
+    font-size: 30px;
+    line-height: 40px;
+    margin-bottom: 35px;
+}
+
+
+
+	
+.multi-asset {
+    padding: 55px 0px 40px;
+    align-items: center;
+}
+.asset-platforms h2 {
+    font-size: 38px;
+    font-weight: 500;
+}
+.platform-button .or-btn, .platform-button .wt-btn{
+    width:27%;
+    margin-right: 20px;
+    font-weight: 500;
+}
+
+
+
+
+.platform-button {
+    margin: 0px 0px 30px;
+}	
+	
+	.vlt-navbar-contacts ul li.sep {
+        display: none;
+    }
+	.vlt-navbar-contacts {
+    margin-left: 5%;
+}
+    .vlt-navbar-contacts ul li {
+        padding: 5px 12px;
+        font-size: 14px;
+    }
+    .vlt-large-heading {
+        font-size: 3rem;
+    }
+    .vlt-fullpage-slider-progress-bar {
+        left: 15px;
+    }
+    .login-left-dark h1 {
+        font-size: 30px;
+        line-height: 38px;
+    }
+    .login-left-dark {
+        width: 32%;
+        padding: 6% 3%;
+    }
+    .login-left-dark p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .login-process form {
+        padding: 5px 15%;
+        width: 80%;
+    }
+    .progress__bar__container ul {
+        padding: 0px;
+    }
+    .left__container {
+        width: 32%;
+        padding: 1.25rem 0;
+        margin-right: 0rem;
+        padding-right: 1.8rem;
+    }
+    .progress__bar__container ul li {
+        margin-right: 2rem;
+        margin: 7px 20px 50px 0px;
+    }
+    .title__name {
+        padding: 2.6rem 0.1rem 3.2rem;
+    }
+    .input__container label {
+        font-size: 15px;
+    }
+    .progress__bar__container ul .active::before,
+    .progress__bar__container ul li::before {
+        content: "";
+        height: 13.4vh;
+    }
+    .sub__title__container {
+        padding: 0rem 0 0.2rem 0;
+    }
+    .sub__title__container h2 {
+        font-size: 28px;
+    }
+    .right__container .form-group {
+        margin-bottom: 0.5rem;
+    }
+    .prev__btn {
+        padding: 0.6rem 0;
+        font-size: 1rem;
+        width: 35%;
+    }
+    .nxt__btn {
+        padding: 0.6rem 0;
+        font-size: 1rem;
+        width: 35%;
+    }
+    .sbt__btn {
+        width: 50%;
+    }
+    .mobile-text {
+        color: #989696b8;
+        font-size: 14px;
+    }
+    .login-button {
+        width: 65%;
+    }
+    .form__container {
+        margin-top: 2rem;
+    }
+    .verification .otp-box .d-flex.flex-row {
+        width: 75%;
+    }
+    .verification .otp-box input {
+        width: 20%;
+        color: #455a64;
+    }
+}
+@media screen and (min-width: 1367px) and (max-width: 1600px) {
+
+.vlt-large-heading {
+    font-size: 3rem;
+}
+.vlt-custom--4124 {
+    width: 45%;
+    height: 112%;
+}
+.vlt-fullpage-slider-progress-bar {
+    left: 30px;
+}
+.trade-services h3 {
+    margin-bottom: 10px;     font-size: 17px;
+}
+.vlt-gap-70 {
+    height: 3rem;
+}
+.sub-title {
+    font-size: 2.1rem;
+	padding-bottom:10px;
+	line-height: 1.1;
+}
+.min-title {
+    font-size: 20px;
+}
+.trading-box {
+    padding: 40px 0px 0px;
+}
+.trading-box .trade {
+    padding: 35px 25px 60px;
+}
+.trading-box .trade h3 {
+    font-size: 24px;
+    padding-bottom: 8px;
+    color: #101010;
+    margin: 0px 0px;
+}
+.trading-box .trade p {
+    font-size: 15px;
+    margin: 0px;
+}
+.trading-box .trade ul {
+    margin: 30px 0px 45px;
+}
+.trading-box .trade ul li {
+    padding-bottom: 11px;
+    font-size: 15px;
+    line-height: 20px;
+}
+.vlt-fullpage-slider .vlt-section__content {
+    padding-top: 5.5rem;
+    padding-bottom: 2.5rem;
+}
+.android-button, .iphone-button {
+    padding: 11px 34px;
+}
+.android-button-key, .orange-full-btn {
+    bottom: 35px;
+}
+#steps {
+    margin: 16px auto 0px;
+}
+#steps article div.inner h2 {
+    padding: 24px 35px 5px;
+    font-size: 18px;
+}
+#steps article div.inner p {
+    font-size: 15px;
+	padding: 0px 35px 24px;
+}
+#steps article div.inner span.date {
+    width: 55px;
+    height: 55px;
+    padding: 4px 0;
+    font-size: 20px;
+	left: 50.5%;
+    border: 2px solid rgba(255,255,255,0.2);
+}
+    
+#steps article div.inner span.date span.month {
+    font-size: 28px;
+    FONT-WEIGHT: 700;
+}
+.footer-boxes {
+    padding-bottom: 5%;
+    margin-bottom: 1%;
+    margin-top: 20px;
+}
+
+.trade-exe {
+    padding: 8% 12%;
+}
+.trade-exe h2 {
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+.trade-exe p {
+    font-size: 20px;
+    line-height: 22px;
+    padding: 0px 0%;
+}
+.trade-exe-list {
+    padding: 8% 0% 2%;
+   
+}
+.trade-exe-list .left, .trade-exe-list .right {
+    width: 48%;
+    color: #fff;
+    margin: 15px 0px;
+}
+.trade-exe-list .left p, .trade-exe-list .right p {
+    font-size: 13px;
+}
+.trade-exe-list .left h3, .trade-exe-list .right h3 {
+    font-size: 80px;
+    margin: 5px 0px;
+}
+.trade-exe-list .left span, .trade-exe-list .right span {
+    font-size: 12px;
+    display: inline-block;
+    line-height: 16px;
+}
+
+
+
+.trade-exe-w {
+    padding: 8% 10%;
+}
+.trade-exe-w h2 {
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+.trade-exe-w p {
+    font-size: 20px;
+    line-height: 22px;
+    padding: 0px 8% 3%;
+}
+.trade-exew-list {
+    padding: 0% 2%;
+    margin-top: 4%;
+}
+.trade-exew-list .left, .trade-exew-list .right {
+    width: 48%;
+    color: #fff;
+    margin: 0px 0px 30px;
+}
+.trade-exew-list .left p, .trade-exew-list .right p {
+    font-size: 14px;
+}
+.trade-exew-list .left h3, .trade-exew-list .right h3 {
+    font-size: 80px;
+    margin: 5px 0px;
+}
+.trade-exew-list .left span, .trade-exew-list .right span {
+    font-size: 12px;
+    display: inline-block;
+    line-height: 16px;
+}
+.exe-info p {
+    color: #303030;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+ .platform-part-m {
+    width: 60%;
+    height: 100%;
+    background-size: 70%;
+    right: 2%;
+}
+	
+	.platform-button .or-btn, .platform-button .wt-btn{
+    width: 27%;
+    margin-right: 20px;
+    font-weight: 500;
+}
+	.vlt-navbar-contacts ul li.sep {
+        margin: 0 15px;
+    }
+    .vlt-navbar-contacts ul li {
+        padding: 5px 15px;
+        font-size: 14px;
+    }
+    .login-left-dark h1 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .login-left-dark {
+        width: 32%;
+        padding: 6% 3%;
+    }
+    .login-left-dark p {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .login-process form {
+        padding: 5px 15%;
+        width: 80%;
+    }
+    .progress__bar__container ul {
+        padding: 0px;
+    }
+    .left__container {
+        width: 32%;
+        padding: 1.25rem 0;
+        margin-right: 0rem;
+        padding-right: 1.8rem;
+    }
+    .progress__bar__container ul .active::before,
+    .progress__bar__container ul li::before {
+        content: "";
+        height: 13.4vh;
+    }
+    .sub__title__container {
+        padding: 0rem 0 0.2rem 0;
+    }
+    .sub__title__container h2 {
+        font-size: 30px;
+    }
+    .right__container .form-group {
+        margin-bottom: 0.5rem;
+    }
+    .sbt__btn {
+        width: 50%;
+    }
+	
+	.platform-particle1 {
+    width: 100%;
+    height: 100%;
+    background-position: 100% 100%;
+    background-size: 42%;
+}
+	.platform-part {
+    width: 53%;
+    height: 82%;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    background-size: 100%;
+    right: 0px;
+}
+	
+	
+	
+}
+
+@media only screen and (max-width: 767px) {
+    
+}
+
+input[type="date"],
+input[type="email"],
+input[type="number"],
+input[type="password"],
+input[type="search"],
+input[type="tel"],
+input[type="text"],
+input[type="url"],
+select,
+textarea {
+    color: black !important;
+}
+#demo,
+#live {
+    width: auto !important;
+}
+#num_1,
+#num_2,
+#num_3,
+#num_4 {
+    text-align: center;
+    padding: 12px 10px;
+}
+
+.mobhead {
+    display: none;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 1500px) {
+.vlt-fullpage-slider-progress-bar {
+    left: 25px;
+}
+.vlt-navbar .vlt-navbar-logo img {
+    max-height: 3.2rem;
+    height: 3.2rem;
+}
+.vlt-large-heading {
+    font-size: 4rem;
+    padding-bottom: 10px;
+}
+	
+.blue-btn, .orange-btn {
+    padding: 12px 12px;
+    width: 210px;
+}
+.vlt-counter-up {
+    font-size: 6.5rem;
+}
+.trade-services h3 {
+    margin-bottom: 15px;font-size: 17px;
+}
+.min-title{
+	font-size: 20px;
+}
+.sub-title {
+    font-size: 2.3rem;
+    line-height: 1.2;
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

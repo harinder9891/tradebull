@@ -1,0 +1,4 @@
+vendor
+.idea
+examples/client_test.php
+test

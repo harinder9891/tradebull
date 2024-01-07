@@ -1,0 +1,62 @@
+<!-- header -->
+
+<header class="header">
+
+<div class="header-main">
+
+ <div class="header-main-inner">
+
+ <div class="cs-container">
+
+ <div class="cs-row header-row">
+
+<div class="logo-main">
+
+ <a href="/"><img src="{{asset('edfiles/img/new_logo.svg')}}"></a>
+
+ <div class="hamburger-menu" id="hamburger">
+
+<a><i class="fa-solid fa-bars"></i></a>
+
+
+ </div>
+
+</div>
+
+<div class="navigation-bar">
+<div class="cross-ixcon">
+<i class="fa-solid fa-xmark"></i>
+ </div>
+ <nav>
+
+<ul>
+
+<li><a href="/">Home</a></li>
+
+<li><a href="/about-us">Who We Are?</a></li>
+
+<li><a href="/contact-us">Contact Us</a></li>
+
+<!-- <li><a href="#">Blogs</a></li> -->
+
+<li><a href="contact-us" class="contactus-btn btn">Login</a></li>
+
+</ul>
+
+ </nav>
+
+</div>
+
+
+
+
+
+</div>
+
+ </div>
+
+</div>
+
+</div>
+
+ </header>
